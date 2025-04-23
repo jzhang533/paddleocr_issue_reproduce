@@ -19,3 +19,6 @@ search keyword "primitive" in Paddle and PaddleOCR issues.
 ## Bounty
 If anyone who can solve this issue, and explain the reasons, @jzhang533 would like to offer 1000 RMB bounty.
 
+## Note
+The purpose of this tiny script is to help developers quickly reproduce the issue.
+A production-like use case can be found here: <https://huggingface.co/spaces/PaddlePaddle/PaddleOCR>.
